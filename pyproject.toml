@@ -1,0 +1,14 @@
+[project]
+name = "robotframework-rest"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "dotenv>=0.9.9",
+    "robotframework>=7.3.2",
+    "robotframework-faker>=6.0.0",
+    "robotframework-pabot>=5.1.0",
+    "robotframework-requests>=0.9.7",
+    "robotframework-retryfailed>=0.2.0",
+]
